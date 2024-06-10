@@ -1,6 +1,6 @@
 pipeline {
     
-	agent any
+	agent any of any
 /*	
 	tools {
         maven "maven3"
